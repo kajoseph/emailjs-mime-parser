@@ -23,7 +23,7 @@
   "main": "dist/mimeparser",
   "dependencies": {
     "emailjs-addressparser": "2.0.2",
-    "emailjs-mime-codec-bigarray": "1.0.1",
+    "emailjs-mime-codec-bigarray": "1.0.2",
     "ramda": "0.26.1"
   },
   "devDependencies": {

@@ -1,6 +1,6 @@
 {
   "name": "emailjs-mime-parser-bigattachments",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/kajoseph/emailjs-mime-parser",
   "description": "Fork of the original emailjs-mime-parser v2.0.7 with modified dependency for handling large email attachments",
   "author": "Andris Reinman <andris@kreata.ee>",

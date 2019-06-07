@@ -1,6 +1,6 @@
 import { pathOr } from 'ramda'
 import timezone from './timezones'
-import { decode, base64Decode, convert, parseHeaderValue, mimeWordsDecode } from 'emailjs-mime-codec'
+import { decode, base64Decode, convert, parseHeaderValue, mimeWordsDecode } from 'emailjs-mime-codec-bigarray'
 import { TextEncoder } from 'text-encoding'
 import parseAddress from 'emailjs-addressparser'
 
